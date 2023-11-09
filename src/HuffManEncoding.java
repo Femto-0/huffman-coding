@@ -22,6 +22,6 @@ public class HuffManEncoding {
     public static void main(String[] args) {
         HuffManEncoding hme= new HuffManEncoding();
        System.out.println(hme.encoder("MEMRSQMPPQSEEEQRSMEE"));
-        //hme.encoder("10100011101010111010010110001111010100101011010");
+
     }
 }
